@@ -1,0 +1,9 @@
+{
+	"parser": "babel-eslint", //npm install --save-dev babel-eslint
+	"rules": {
+		"no-console": "warn"
+	},
+	"extends": ["airbnb-base"] // installed airbnbs linter and extending our linter to include theirs
+}
+
+//linter gives warnings and errors
